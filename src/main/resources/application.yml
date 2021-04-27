@@ -1,0 +1,8 @@
+spring:
+  elasticsearch:
+    rest:
+      uris: localhost:9200
+      username:
+      password:
+      read-timeout: 1m
+      connection-timeout: 1s
