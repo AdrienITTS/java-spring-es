@@ -1,4 +1,5 @@
 # Demo Spring Boot Elastic Search
+![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven/3.6.1)
 
 A small application that shows the different ways to connect Spring and Elastic Search.
 
